@@ -26,7 +26,7 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 # Author settings
 author: Zhen Xu # add your name
 author-pic: my_pic.jpg
-about-author: Zhejiang University senior student majoring in Computer Science and Technology. Aspiring Ph.D. candidate with a strong passion for computer networks, multimodal systems, and GPU communication. Currently collaborating with Professor Tong Yang from Peking University on projects involving network measurement, network traffic generation, and Retrieval-Augmented Generation (RAG).
+about-author: Senior student at Zhejiang University majoring in Computer Science and Technology, seeking a Ph.D. position. I’m passionate about computer networks, multimodal systems, and GPU communication. Currently, I’m working with Professor Tong Yang from Peking University on projects related to network measurement, network traffic generation, and Retrieval-Augmented Generation (RAG).
 
 # Contact links
 email: 3210105397@zju.edu.cn # Add your Email address
