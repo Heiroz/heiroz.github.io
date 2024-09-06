@@ -1,5 +1,5 @@
 # Site settings
-title: The Minimum Viable Model
+title: Zhen Xu's PROJECTS
 description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -24,9 +24,9 @@ logo-dark: "/assets/img/branding/MVM-logo-full-dark.svg"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
-author: Armando Maynez # add your name
-author-pic: Myself_Neon_grey.jpg
-about-author: Engineer, industry executive, research enthusiast. Avid learner with diverse interests in coding, machine learning, artificial intelligence and reinforcement learning. 17+ years of experience working in multinational corporations.
+author: Zhen Xu # add your name
+author-pic: my_pic.jpg
+about-author: Zhejiang University senior student majoring in Computer Science and Technology. Aspiring Ph.D. candidate with a strong passion for computer networks, multimodal systems, and GPU communication. Currently collaborating with Professor Tong Yang from Peking University on projects involving network measurement, network traffic generation, and Retrieval-Augmented Generation (RAG).
 
 # Contact links
 email: 3210105397@zju.edu.cn # Add your Email address
