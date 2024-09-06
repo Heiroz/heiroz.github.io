@@ -11,3 +11,7 @@ author: Zhen Xu
 github:  amaynez/Perceptron/
 mathjax: yes
 ---
+
+## Multi-modality Data Evaluation
+
+We all know that every data have its value. However, how to evaluate the datas' value?
